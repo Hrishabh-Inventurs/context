@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Geeky 4D 4K Live AI Wallpapers</string>
+    <string name="app_name_prime">Geeky 4D 4K Live AI Wallpapers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="get_base_url">http://b_geeky_staging.inventurs.com/</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="featured">Featured</string>
+    <string name="free">Free</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="signin">Sign In</string>
+    <string name="signin_text">Sign in &amp; save your purchases</string>
+    <string name="premium"> Go Premium</string>
+    <string name="categories"> Categories</string>
+    <string name="setting"> Setting</string>
+    <string name="support"> Support</string>
+    <string name="remove_add">Remove Ads</string>
+    <string name="stop">Stop Ads</string>
+    <string name="manage">Manage Subscription</string>
+    <string name="save">Sign in &amp; save your purchases </string>
+    <string name="tex">An auto renewable 3 month subscription will we activated</string>
+    <string name="unlock">unlock all live walpapers</string>
+    <string name="selet_theme">Select Theme</string>
+    <string name="double_mode">New Double mode!</string>
+    <string name="parallex">Parallex Effect Strength</string>
+    <string name="parallex_text">Set the strength of the parallex effect, when tilting your device.</string>
+    <string name="battery">Battery Save Mode</string>
+    <string name="animation">Animation Effects</string>
+    <string name="medium_strength">Medium Strength</string>
+    <string name="animation_text">Set the strength of the animation effets for the layer.</string>
+    <string name="animationsub_text">Setting this to Zero(0). will stop animation</string>
+    <string name="autochangeText">Applies to downloaded Walpaper only</string>
+    <string name="autochange">Auto change walpaper daily</string>
+    <string name="switch_text">Apply two different live walpapers 1 for lock &amp; 1 for Home screen</string>
+    <string name="select_text">Select walpaper to display. New items are uploaded continuously.</string>
+    <string name="quality">Image Quality</string>
+    <string name="quality_text">Select between low. Medium and HD. See description for each, bellow the slider.</string>
+    <string name="quality_medium">For Medium size screens and resolution less then 1920 * 1080.</string>
+    <string name="feedback">Your feedback is important!</string>
+    <string name="feedbacktext">Tell us what you think about this app. Give it five stars if you like it.</string>
+    <string name="facebook">Join us on Facebook</string>
+    <string name="facebook_text">Click to like our page on Facebook!</string>
+    <string name="terms">Terms of use</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="reset">Reset your Consent</string>
+    <string name="subscription">Manage Subscription</string>
+    <string name="wallpaper_str">Wallpaper</string>
+    <string name="ad_attribution">Ad</string>
+
+    <string name="rate_us">If you love this app and want to support our team\'s work  Please give your feedback.</string>
+    <string name="no_internet_connection">No Internet Connection Please Retry</string>
+    <string name="congratulations">CONGRATULATIONS!</string>
+    <string name="better_luck_next_time">BETTER LUCK NEXT TIME!</string>
+
+    <string name="cancel_txt">Cancel</string>
+    <string name="remove_txt">Remove</string>
+    <string name="remove_from_storage">Remove this wallpaper from storage?</string>
+    <string name="continue_to_app">Continue to App</string>
+    <string name="ad_dis_early">Ad Dismissed Early</string>
+    <string name="congra_prime_user">Congratulation you are a prime user</string>
+    <string name="prime_version">Remove Ads and Unlock Wallpapers</string>
+
+    <string name="popular_text">Popular</string>
+    <string name="new_text">New</string>
+
+    <string name="default_notification_channel_id" translatable="false">4d wallpapers channel</string>
+
+    <string name="facebook_app_id" translatable="false">1280038129262422</string>
+    <string name="facebook_client_token" translatable="false">4ff0fcc4758c1b75b52a0e940bed4752</string>
+    <string name="version_name" translatable="false">Version 1.0.0</string>
+    <string name="apply_wallpaper" translatable="false">Apply</string>
+    <string name="version" translatable="false">v1.0.0</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-2990615062960074~8198361430</string>
+
+    <string name="spin_coin_1" translatable="false">0</string>
+    <string name="spin_coin_2" translatable="false">4</string>
+    <string name="spin_coin_3" translatable="false">1</string>
+    <string name="spin_coin_4" translatable="false">10</string>
+    <string name="spin_coin_5" translatable="false">5</string>
+    <string name="spin_coin_6" translatable="false">3</string>
+    <string name="spin_coin_7" translatable="false">2</string>
+    <string name="spin_coin_8" translatable="false">4</string>
+    <string name="spin_coin_9" translatable="false">5</string>
+    <string name="spin_coin_10" translatable="false">2</string>
+    <string name="download_complete">Download Completed</string>
+
+
+    //New Strings
+    <string name="activity_error_msg" translatable="false">Something went wrong. Please try again later</string>
+    <string name="choose_wallpaper_title">Note: Choose Wallpaper</string>
+    <string name="error_service">Error: No Service Found</string>
+    <string name="choose_wallpaper">Needs to choose this app in system live wallpaper settings first.\n\nPlease select \"pixio™ 4D 4K Live Wallpapers AI" in next view.</string>
+    <string name="not_supported">This 4D wallpaper is not compatible with your device. \n We are working hard to make it supported.</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="ok">OK</string>
+    <string name="update_msg">It is a mandatory update. Please update the app</string>
+    <string name="something_went_wrong_new">Something went wrong.. Please Try Again</string>
+
+    //Ad banner Ids
+    <string name="banner_settings" translatable="false">ca-app-pub-2990615062960074/9637288384</string>
+    <string name="banner_spin" translatable="false">ca-app-pub-2990615062960074/1950370053</string>
+    <string name="banner_viewpager_4k" translatable="false">ca-app-pub-2990615062960074/4550798457</string>
+    <string name="banner_preview_4k" translatable="false">ca-app-pub-2990615062960074/7498210202</string>
+    <string name="banner_preview_live" translatable="false">ca-app-pub-2990615062960074/7011125048</string>
+    <string name="banner_preview_4d" translatable="false">ca-app-pub-2990615062960074/9191064232</string>
+    <string name="banner_favourite_activity" translatable="false">ca-app-pub-2990615062960074/1649246443</string>
+    <string name="banner_download_activity" translatable="false">ca-app-pub-2990615062960074/7017123196</string>
+    <string name="banner_seeAll_activity" translatable="false">ca-app-pub-2990615062960074/6710001439</string>
+    <string name="banner_main_activity" translatable="false">ca-app-pub-2990615062960074/1764796511</string>
+
+    //AppLovin Ids
+    <string name="banner_main_activity_appLovin" translatable="false">bd6341a20fabad31</string>
+    <string name="banner_downloaded_activity_appLovin" translatable="false">91234a1e53440a8e</string>
+    <string name="banner_fav_activity_appLovin" translatable="false">6764ba2c478a6b2a</string>
+    <string name="banner_subscription_activity_appLovin" translatable="false">4d098be707fa6305</string>
+    <string name="banner_seeAll_activity_appLovin" translatable="false">307438beee23007d</string>
+    <string name="banner_spinWheel_activity_appLovin" translatable="false">3256cb3022cc68f6</string>
+    <string name="banner_4k_preview_appLovin" translatable="false">51e3940ccd1a42d7</string>
+    <string name="banner_live_preview_appLovin" translatable="false">45a0b4c5af9b3b86</string>
+    <string name="banner_4k_viewpager_appLovin" translatable="false">5d76c0069d696fa0</string>
+    <string name="banner_4d_viewpager_appLovin" translatable="false">8d18eb72696fc9c3</string>
+    <string name="new_features_arrived">New Features Arrived</string>
+    <string name="feature_update">This app requires you to update the app for best experience and latest features , please update once as its mandatory, thank you so much!!!</string>
+    <string name="feature_update1">New update available , please update as soon as possible to enjoy latest features,thank you so much!!!</string>
+    <string name="auto_wallpaper_changer">Auto Wallpaper Changer</string>
+    <string name="enable_wallpaper_changer">Enable Wallpaper Changer</string>
+    <string name="recent_history">Recent History</string>
+
+</resources>
